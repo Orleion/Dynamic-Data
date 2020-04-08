@@ -1,0 +1,51 @@
+{
+    "data" :[{
+            "category":"Computers",
+            "name": "GBS-LT12",
+            "user": "Jared Beltz",
+            "domainlogin":"jared",
+            "department": "IT",
+            "building": "Main",
+            "servicetag": "9T3YRY1",
+            "expresstag": "21351221497",
+            "warrantyend": "10/8/2013",
+            "manufacture": "Dell",
+            "model": "Alienware 14",
+            "processor": "Intel i7-4900MQ @ 2.80 GHz",
+            "ram": "16gb",
+            "OperatingSystem": "10-1903",
+            "storagespace": "464gb",
+            "storagetype": "SSD"
+
+            
+        },
+        {
+            "category":"Computers",
+            "name": "GBS-LT40",
+            "user": "Lester Aslarona",
+            "domainlogin":"lester",
+            "department": "IT",
+            "building": "Main",
+            "servicetag": "PF1CARWS",
+            "expresstag": "N/A",
+            "warrantyend": "11/6/2019",
+            "manufacture": "Lenovo",
+            "model": "LenovoE590",
+            "processor": "intel i7-8565U @1.8GHz",
+            "ram": "16gb",
+            "OperatingSystem": "10-1903",
+            "storagespace": "",
+            "storagetype": ""
+
+            
+        }
+
+
+
+
+
+
+
+
+]
+}

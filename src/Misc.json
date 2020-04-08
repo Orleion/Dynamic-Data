@@ -1,0 +1,46 @@
+{
+    "data" :[{
+            "category":"Misc",
+            "name": "Keyboards",
+            "quantity":"3",
+            "description":  "in bad condition"
+            
+        },
+        {
+            "category":"Misc",
+            "name": "Mice",
+            "description": "in good condition",
+            "quantity": "6"
+            
+        },
+        {
+            "category":"Misc",
+            "name": "headsets",
+            "quantity":"3",
+            "description":  "in bad condition"
+            
+        },
+        {
+            "category":"Misc",
+            "name": "computers",
+            "quantity":"3",
+            "description":  "in bad condition"
+            
+        },
+        {
+            "category":"Misc",
+            "name": "monitors",
+            "quantity":"3",
+            "description":  "in bad condition"
+            
+        }
+
+
+
+
+
+
+
+
+]
+}
